@@ -16,8 +16,10 @@ Modules i use for making this project:
   
  
 How to use it?
+Open the main.py file and then  you will see this window 
 
 ![pass](https://user-images.githubusercontent.com/70189521/107028578-99d10380-6762-11eb-8bce-ae730a4e5862.png)
+
 
 Just type your password lenght in the text box and click on generate and than your password will generate you can copy it from the bottom one text box :)
 
